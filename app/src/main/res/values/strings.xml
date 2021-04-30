@@ -6,21 +6,23 @@
         <item>Roronoa Zoro</item>
         <item>Nami </item>
         <item>Usopp</item>
-        <item>Brook</item>
+        <item>Sanji Vinsmoke</item>
         <item>Tony-Tony Chopper </item>
         <item>Nico Robin</item>
         <item>Franky</item>
+        <item>Brook</item>
     </string-array>
 
     <string-array name="personnage_description">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>30 millions après Arlong Park, 100  après Alabasta, 300 après Enies Lobby, 400 après la bataille de Marine Ford, 500 après Dressrosa, 1 milliard et 500 millions après Toigato.</item>
+        <item>60 millions après Alabasta, 120 millions après Enies Lobby, 320 millions après Dressrosa.</item>
+        <item>6 millions après Enies Lobby, 66 millions après Dressrosa.</item>
+        <item>30 millions après Enies Lobby, 200 millions après Dressrosa.</item>
+        <item>77 après Enies Lobby, 177après Dressrosa, 330 millions après Tougato.</item>
+        <item>50 Berrys après Enies Lobby, 100 Berrys après Dressrosa.</item>
+        <item>79 la destruction, 80 après Enies Lobby, 130 millions après Dressrosa.</item>
+        <item>44 millions après Enies Lobby, 94 millions après Dressrosa.</item>
+        <item>33 avec Rumbar, 83 millions après Dressrosa.</item>
     </string-array>
 
     <array name="personnage_image">
@@ -28,10 +30,11 @@
         <item>@drawable/zoro</item>
         <item>@drawable/nami</item>
         <item>@drawable/usopp</item>
-        <item>@drawable/brook</item>
+        <item>@drawable/sanji</item>
         <item>@drawable/chopper</item>
         <item>@drawable/robin</item>
         <item>@drawable/franky</item>
+        <item>@drawable/brook</item>
     </array>
 </resources>
 

@@ -36,22 +36,22 @@ class DetailActivity : AppCompatActivity() {
             padding = dip(16)
 
             logoImageView = imageView().
-                    lparams(width = dip(100), height = wrapContent) {
-                        gravity = Gravity.CENTER
-                    }
+            lparams(width = dip(100), height = wrapContent) {
+                gravity = Gravity.CENTER
+            }
 
             titleTextView = textView().
-                    lparams(width = wrapContent) {
-                        gravity = Gravity.CENTER
-                        topMargin = dip(10)
-                    }
+            lparams(width = wrapContent) {
+                gravity = Gravity.CENTER
+                topMargin = dip(10)
+            }
 
             descriptionTextView = textView().
-                    lparams(width = wrapContent) {
-                        topMargin = dip(20)
-                        leftMargin = dip(20)
-                        rightMargin = dip(20)
-                    }
+            lparams(width = wrapContent) {
+                topMargin = dip(20)
+                leftMargin = dip(20)
+                rightMargin = dip(20)
+            }
         }
 
         logo = intent.getIntExtra(IMAGE, 0)
