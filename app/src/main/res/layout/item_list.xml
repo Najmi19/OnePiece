@@ -11,7 +11,7 @@
         android:id="@+id/image"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:src="@drawable/img_luffy" />
+        android:src="@drawable/luffy" />
 
     <TextView
         android:id="@+id/name"

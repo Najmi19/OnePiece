@@ -6,7 +6,7 @@
         <item>Roronoa Zoro</item>
         <item>Nami </item>
         <item>Usopp</item>
-        <item>Sanji Vinsmoke</item>
+        <item>Brook</item>
         <item>Tony-Tony Chopper </item>
         <item>Nico Robin</item>
         <item>Franky</item>
@@ -24,14 +24,14 @@
     </string-array>
 
     <array name="personnage_image">
-        <item>@drawable/img_luffy</item>
-        <item>@drawable/img_zoro</item>
-        <item>@drawable/img_nami</item>
-        <item>@drawable/img_usoop</item>
-        <item>@drawable/img_sanji</item>
-        <item>@drawable/img_chopper</item>
-        <item>@drawable/img_robin</item>
-        <item>@drawable/img_franky</item>
+        <item>@drawable/luffy</item>
+        <item>@drawable/zoro</item>
+        <item>@drawable/nami</item>
+        <item>@drawable/usopp</item>
+        <item>@drawable/brook</item>
+        <item>@drawable/chopper</item>
+        <item>@drawable/robin</item>
+        <item>@drawable/franky</item>
     </array>
 </resources>
 
