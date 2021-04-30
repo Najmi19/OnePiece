@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Football Club Application </string>
+
+    <string-array name="personnage_name">
+        <item>Monkey D. Luffy</item>
+        <item>Roronoa Zoro</item>
+        <item>Nami </item>
+        <item>Usopp</item>
+        <item>Sanji Vinsmoke</item>
+        <item>Tony-Tony Chopper </item>
+        <item>Nico Robin</item>
+        <item>Franky</item>
+    </string-array>
+
+    <string-array name="personnage_description">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <array name="personnage_image">
+        <item>@drawable/img_luffy</item>
+        <item>@drawable/img_zoro</item>
+        <item>@drawable/img_nami</item>
+        <item>@drawable/img_usoop</item>
+        <item>@drawable/img_sanji</item>
+        <item>@drawable/img_chopper</item>
+        <item>@drawable/img_robin</item>
+        <item>@drawable/img_franky</item>
+    </array>
+</resources>
+
